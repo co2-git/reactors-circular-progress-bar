@@ -21,5 +21,8 @@
     "eslint": "^3.13.0",
     "eslint-plugin-flowtype": "^2.29.2",
     "flow-bin": "^0.37.4"
+  },
+  "dependencies": {
+    "reactors-grid": "^1.5.7"
   }
 }

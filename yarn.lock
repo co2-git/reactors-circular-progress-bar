@@ -1963,6 +1963,10 @@ rc@~1.1.6:
     minimist "^1.2.0"
     strip-json-comments "~1.0.4"
 
+reactors-grid@^1.5.7:
+  version "1.5.7"
+  resolved "https://registry.yarnpkg.com/reactors-grid/-/reactors-grid-1.5.7.tgz#633b8f07d800f675f9e790a92f9a7f5eb09abd25"
+
 "readable-stream@^2.0.0 || ^1.1.13", readable-stream@^2.0.2, readable-stream@^2.2.2:
   version "2.2.2"
   resolved "https://registry.yarnpkg.com/readable-stream/-/readable-stream-2.2.2.tgz#a9e6fec3c7dda85f8bb1b3ba7028604556fc825e"
