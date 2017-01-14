@@ -1,22 +1,7 @@
 // @flow
 
 import React from 'react';
-import {Text, View} from 'reactors';
-
-import Declarations from 'reactors/dist/API/StyleSheet/Declarations';
-
-console.warn({circle: new Declarations(
-  [
-    {
-      borderWidth: 10,
-      borderColor: 'red',
-      borderRadius: 200 / 2,
-      height: 200,
-      width: 200,
-    },
-    {margin: 10},
-  ]
-).toObject()});
+import {View} from 'reactors';
 
 type $props = {
   border: number,
